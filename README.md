@@ -1,3 +1,12 @@
+You can visit the site in the next link.  
+
+https://saulmed.github.io/SvelteApi-RickAndMorty/  
+
+![](/public/1.png)
+![](/public/2.png)
+
+
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
